@@ -1,9 +1,9 @@
 {
-  "name": "mean-template",
+  "name": "angulator",
   "version": "0.0.0",
-  "homepage": "https://github.com/chyld/mean-template",
+  "homepage": "https://github.com/abarnhard/angulator",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Adam Barnhard <admbarn@gmail.com>"
   ],
   "description": "The MEAN Template",
   "license": "MIT",
